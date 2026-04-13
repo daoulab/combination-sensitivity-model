@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata from this file."
+title: "Code for Figures 2-8 and Supplementary Figures S1-S6 for 'Post-synaptic facilitation and network dynamics underlying stimulus-specific combination sensitivity'"
+type: software
+authors:
+  - family-names: "Merabi"
+    given-names: "Zeina"
+  - family-names: "Daou"
+    given-names: "Arij"
+repository-code: "https://github.com/USERNAME/REPOSITORY"
+version: "1.0.0"
+date-released: 2026-04-12
+license: "MIT"
+abstract: "MATLAB code used to generate Figures 2-8 and Supplementary Figures S1-S6 for the iScience paper 'Post-synaptic facilitation and network dynamics underlying stimulus-specific combination sensitivity'."
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Merabi"
+      given-names: "Zeina"
+    - family-names: "Daou"
+      given-names: "Arij"
+  title: "Post-synaptic facilitation and network dynamics underlying stimulus-specific combination sensitivity"
+  journal: "iScience"
+  publisher: "Cell Press"
+  year: 2026

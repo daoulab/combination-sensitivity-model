@@ -7,7 +7,7 @@ authors:
     given-names: "Zeina"
   - family-names: "Daou"
     given-names: "Arij"
-repository-code: "https://github.com/neuroscienceful/combination-sensitivity-model"
+repository-code: "https://github.com/daoulab/combination-sensitivity-model"
 version: "1.0.0"
 date-released: 2026-04-12
 license: "MIT"
